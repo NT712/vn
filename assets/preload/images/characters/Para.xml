@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Para.png"><SubTexture name="Para idle dance0000" x="810" y="0" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0001" x="1196" y="0" width="388" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0002" x="1584" y="0" width="395" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0003" x="1545" y="815" width="386" height="807" frameX="-282" frameY="-61" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0004" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0005" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0006" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0007" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0008" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para idle dance0009" x="0" y="815" width="386" height="812" frameX="-280" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing left0000" x="1158" y="815" width="387" height="808" frameX="-271" frameY="-60" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing left0001" x="1979" y="0" width="389" height="806" frameX="-272" frameY="-63" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing left0002" x="1158" y="815" width="387" height="808" frameX="-271" frameY="-60" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing down0000" x="2368" y="751" width="648" height="742" frameX="-13" frameY="-120" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing down0001" x="2368" y="0" width="651" height="751" frameX="-15" frameY="-111" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing down0002" x="2368" y="751" width="648" height="742" frameX="-13" frameY="-120" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing up0000" x="769" y="815" width="389" height="810" frameX="-271" frameY="-58" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing up0001" x="386" y="815" width="383" height="812" frameX="-273" frameY="-56" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing up0002" x="769" y="815" width="389" height="810" frameX="-271" frameY="-58" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing right0000" x="0" y="0" width="399" height="815" frameX="-259" frameY="-52" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing right0001" x="399" y="0" width="411" height="815" frameX="-253" frameY="-52" frameWidth="700" frameHeight="873" />
+<SubTexture name="Para sing right0002" x="0" y="0" width="399" height="815" frameX="-259" frameY="-52" frameWidth="700" frameHeight="873" />
+</TextureAtlas>
